@@ -9,6 +9,11 @@ then in the config file you must configure the numbers of buttons and the action
 
 Every time you change the config file you must restart the program (exit the program in the tray and open the exe again)
 
+## Arduino connection
+![image](https://github.com/user-attachments/assets/e4dbe671-a9d2-403c-b37a-c9943a1fec15) ![image](https://github.com/user-attachments/assets/dc89ba79-c10a-4b13-9b61-7ae48db69412)
+
+
+
 ## Usage
 
 The config file already has the structure that must be followed for it to work, you can add actions or remove them, as well as the buttons, you can also 
