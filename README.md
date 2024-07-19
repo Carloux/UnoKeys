@@ -13,8 +13,6 @@ Every time you change the config file you must restart the program (exit the pro
 
 The config file already has the structure that must be followed for it to work, you can add actions or remove them, as well as the buttons, you can also 
 change the speed at which the keys are repeated and the time that must pass for them to begin. repeat (does not apply to buttons with delay actions).
-## Contributing
-
 
 ## Support
 
