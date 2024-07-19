@@ -22,7 +22,7 @@ For each button and pin added
 
 ## Usage
 
-The config file already has the structure that must be followed for it to work, you can add actions or remove them, as well as the buttons, you can also 
+The config file already has the structure that must be followed for it to work, you can add actions or remove them, as well as the number of buttons, you can also 
 change the speed at which the keys are repeated and the time that must pass for them to begin. repeat (does not apply to buttons with delay actions).
 
 ## Support
