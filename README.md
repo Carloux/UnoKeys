@@ -1,6 +1,6 @@
 # UnoKeys
 
-Transform your arduino into a macro keyboard
+UnoKeys is a software to transform your arduino into a macro keyboard, without needing an arduino with hid.
 
 ## Installation
 
