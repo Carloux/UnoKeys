@@ -1,0 +1,58 @@
+# Configuration file for UnoKeys
+
+# Serial port configuration
+serial:
+  port: COM15
+  baudrate: 9600
+
+# Key combinations for each button
+key_combinations:
+  0:
+    - action: "delay"
+      duration: 500  # Delay in milliseconds
+    - action: "a"
+    - action: "delay"
+      duration: 500  # Delay in milliseconds
+    - action: "c" 
+  1:
+    - action: "move"
+      x: 100
+      y: 200
+  2:
+    - action: "holdclick_left"
+  3:
+    - action: "mute_system"  # Action to mute the system
+  4:
+    - action: "unmute_system"  # Action to unmute the system
+  5:
+    - action: "mute_microphone"  # Action to mute the microphone
+  6:
+    - action: "unmute_microphone"  # Action to unmute the microphone
+  7:
+    - action: "a"  
+    - action: "B"  
+    - action: "c"  
+  8:
+    - action: "scroll"
+      direction: "down"  
+      amount: 3  
+  9:    #demo
+    - action: "delay"
+      duration: 500
+    - action: "move"
+      x: 100
+      y: 200
+    - action: "delay"
+      duration: 500
+    - action: "click_right"
+    - action: "mute_system"
+    - action: "delay"
+      duration: 500
+    - action: "unmute_system"
+  10:
+    - action: "Key.space"  
+
+# Repeat settings
+repeat:
+  hold_time: 500  # Time in milliseconds that a button must be pressed to start repeating
+  repeat_rate: 100  # Repetition rate in milliseconds (applicable only if there is no delay in the button's action list)

@@ -1,0 +1,65 @@
+    Normal keys
+    - action: "a"--->"z"
+"0"--->"1"
+"A"--->"Z"
+
+    Delay
+    - action: "delay"
+      duration: 500    # Delay in milliseconds
+
+    Arrow keys
+Key.up
+Key.down
+Key.left
+Key.right
+
+    Fkeys
+Key.f1--->Key.f12
+
+    Media keys
+Key.media_play_pause
+Key.media_volume_up
+Key.media_volume_down
+Key.media_next
+Key.media_previous
+
+    More keys
+Key.space
+Key.tab
+Key.shift #Key.shift_l, Key.shift_r
+Key.ctrl #Key.ctrl_l, Key.ctrl_r
+Key.alt  #Key.alt_r, Key.alt_l
+Key.num_lock
+Key.caps_lock
+Key.delete
+Key.backspace
+Key.enter
+Key.esc
+Key.print_screen
+Key.page_up
+Key.page_down
+Key.insert
+Key.home
+Key.end
+
+     MOUSE
+    - action: "scroll"
+      direction: "down"  #scrolls can also be: direction: "up", "left", "right"
+      amount: 3
+    - action: "move"   #moves mouse posititon
+      x: 100
+      y: 200
+double_click_left
+double_click_right
+click_left
+click_right
+click_middle
+holdclick_left
+holdclick_right
+
+     System sound
+unmute_microphone
+mute_microphone
+mute_system
+unmute_system
+
