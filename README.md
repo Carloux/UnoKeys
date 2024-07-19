@@ -31,7 +31,7 @@ If you find this project helpful and would like to support its developer, please
 
 - [PayPal](https://www.paypal.me/Carloux1) 
 
-Thank you for your support!
+Thank you for your support!!
 
 ## License
 
